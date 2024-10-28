@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Pacifico&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ramaraja&display=swap');
+*{
+  font-family: "Poppins", serif;
+}
+body{
+  height: 100vh;
+  width: 100vw;
+  background-color: #7f8fa6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+div{  
+  color: #fff;
+  text-align: center;
+}
+div h3{
+  font-size: 20px;
+  font-weight: 500;
+}
+
+div p b{
+  color: #353b48;
+  background-color: #fff;
+  border-radius: 50%;
+  padding: 5px;
+}
+div button{
+  border: none;
+  background-color:#353b48 ;
+  color: #fff;
+  padding:10px;
+  border-radius: 5px;
+}
