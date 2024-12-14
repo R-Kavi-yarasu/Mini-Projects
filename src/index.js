@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom/client';
 // import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Clock from './DigitalClock/Clock';
+// import Clock from './DigitalClock/Clock';  
+import PG from './Mini-Projects/Password-Generator/PG';
 // import Addvice from './AdviceApp/Addvice';
 // import UserSDetails from './FormSamples/UserSDetails';
 // import RegFrm from './FormSamples/RegFrm';
@@ -21,7 +22,8 @@ root.render(
     {/* <UserSDetails /> */}
     {/* <RegFrm /> */}
     {/* <Addvice /> */}
-    <Clock />
+    {/* <Clock /> */}
+    <PG />
   </React.StrictMode>
 );
 
