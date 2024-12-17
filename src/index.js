@@ -1,10 +1,14 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.js';
+import "bootstrap-icons/font/bootstrap-icons.css";
 import ReactDOM from 'react-dom/client';
 // import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Calendor from './Mini-Projects/Calendor/Calendor';
 // import Clock from './DigitalClock/Clock';  
-import PG from './Mini-Projects/Password-Generator/PG';
+// import PG from './Mini-Projects/Password-Generator/PG';
 // import Addvice from './AdviceApp/Addvice';
 // import UserSDetails from './FormSamples/UserSDetails';
 // import RegFrm from './FormSamples/RegFrm';
@@ -23,7 +27,8 @@ root.render(
     {/* <RegFrm /> */}
     {/* <Addvice /> */}
     {/* <Clock /> */}
-    <PG />
+    {/* <PG /> */}
+    <Calendor />
   </React.StrictMode>
 );
 
