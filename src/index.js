@@ -6,7 +6,8 @@ import ReactDOM from 'react-dom/client';
 // import './index.css';
 // import App from './App';
 import reportWebVitals from './reportWebVitals';
-import Calendor from './Mini-Projects/Calendor/Calendor';
+// import Calendor from './Mini-Projects/Calendor/Calendor';
+import Quiz from './Mini-Projects/QuizApp/Quiz';
 // import Clock from './DigitalClock/Clock';  
 // import PG from './Mini-Projects/Password-Generator/PG';
 // import Addvice from './AdviceApp/Addvice';
@@ -28,7 +29,8 @@ root.render(
     {/* <Addvice /> */}
     {/* <Clock /> */}
     {/* <PG /> */}
-    <Calendor />
+    {/* <Calendor /> */}
+    <Quiz />
   </React.StrictMode>
 );
 

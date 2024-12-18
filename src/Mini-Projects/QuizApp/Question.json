@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "question" : "What is the captal of France?",
+    "option" : ["Berlin","Madrif","Paries","Rome"],
+    "correctOption": "Paries"
+  },
+  {
+    "id" : 2,
+    "question" : "Which planet is know as the Red Planet?",
+    "option" : ["Venus","Mars","Jupiter","Saturn"],
+    "correctOption": "Mars"
+  },
+  {
+    "id" : 3,
+    "question" : "Who wrote 'Romeo and Juliet'?",
+    "option" : ["Charles Dickens","Jane Austen","Willam Shakespeare","Leo Tolstoy"],
+    "correctOption": "Willam Shakespeare"
+  }
+]
